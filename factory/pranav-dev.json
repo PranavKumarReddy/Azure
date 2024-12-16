@@ -1,0 +1,9 @@
+{
+	"name": "pranav-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa22cbaa-b4c8-401f-b70c-7a472960d21e",
+		"tenantId": "afa9610e-f35a-47a9-b0b5-1334222eb336"
+	}
+}
